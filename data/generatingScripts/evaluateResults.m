@@ -1,5 +1,5 @@
 function [statistic, vectors] = evaluateResults(anomaly, has_anomaly, tresh_hold)
-% evaluateResults: [vectors statistics] = evaluateResults(anomaly, has_anomaly)
+% evaluateResults: [statistics, vectors] = evaluateResults(anomaly, has_anomaly)
 % anomaly ... float: obtained anomaly, computed by an algortihm [Nx1]
 % has_anomaly ... bool: anotation of original data [Nx1]
 % tresh_hold ... float: tresh hold to determind if anomaly(i) should be
