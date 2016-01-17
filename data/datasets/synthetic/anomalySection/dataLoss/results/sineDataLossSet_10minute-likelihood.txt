@@ -1,0 +1,14 @@
+Statistics of the data sineDataLossSet_10minute-likelihood 
+
+Tresh hold: 0.5000
+Number of samples: 18000
+
+False negatives: 163
+True negatives: 11616
+False positives: 5025
+True positives: 1196
+
+Precision: 0.1923
+F: 0.3156
+Recall: 0.8801
+Accuracy: 0.7118
